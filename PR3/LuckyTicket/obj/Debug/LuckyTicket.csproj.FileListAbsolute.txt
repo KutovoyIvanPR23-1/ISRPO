@@ -1,0 +1,31 @@
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\bin\Debug\LuckyTicket.exe.config
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\bin\Debug\LuckyTicket.exe
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\bin\Debug\LuckyTicket.pdb
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.csproj.AssemblyReference.cache
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.MainForm.resources
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.Properties.Resources.resources
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.csproj.GenerateResource.cache
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.csproj.CoreCompileInputs.cache
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.exe
+D:\Коржилов\Матющенко\Практическая №1\LuckyTicket\obj\Debug\LuckyTicket.pdb
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\bin\Debug\LuckyTicket.exe.config
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\bin\Debug\LuckyTicket.exe
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\bin\Debug\LuckyTicket.pdb
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.AssemblyReference.cache
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.MainForm.resources
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.Properties.Resources.resources
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.GenerateResource.cache
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.CoreCompileInputs.cache
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.exe
+D:\Коржилов\Матющенко\Практическая №1\PR3\LuckyTicket\obj\Debug\LuckyTicket.pdb
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\bin\Debug\LuckyTicket.exe.config
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\bin\Debug\LuckyTicket.exe
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\bin\Debug\LuckyTicket.pdb
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.exe.config
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.MainForm.resources
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.exe
+C:\Users\ivang\OneDrive\Desktop\PR3\LuckyTicket\obj\Debug\LuckyTicket.pdb

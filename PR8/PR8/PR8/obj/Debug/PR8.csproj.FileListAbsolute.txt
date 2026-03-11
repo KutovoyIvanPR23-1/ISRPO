@@ -1,0 +1,11 @@
+C:\Users\ivang\source\repos\PR8\PR8\bin\Debug\PR8.exe.config
+C:\Users\ivang\source\repos\PR8\PR8\bin\Debug\PR8.exe
+C:\Users\ivang\source\repos\PR8\PR8\bin\Debug\PR8.pdb
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.csproj.AssemblyReference.cache
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.Form1.resources
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.Properties.Resources.resources
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.csproj.GenerateResource.cache
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.exe
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.pdb
+C:\Users\ivang\source\repos\PR8\PR8\obj\Debug\PR8.exe.config

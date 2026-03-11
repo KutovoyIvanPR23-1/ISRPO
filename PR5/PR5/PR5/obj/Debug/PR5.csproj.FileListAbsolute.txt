@@ -1,0 +1,11 @@
+C:\Users\ivang\source\repos\PR5\PR5\bin\Debug\PR5.exe.config
+C:\Users\ivang\source\repos\PR5\PR5\bin\Debug\PR5.exe
+C:\Users\ivang\source\repos\PR5\PR5\bin\Debug\PR5.pdb
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.csproj.AssemblyReference.cache
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.Form1.resources
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.Properties.Resources.resources
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.csproj.GenerateResource.cache
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.exe
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.pdb
+C:\Users\ivang\source\repos\PR5\PR5\obj\Debug\PR5.exe.config

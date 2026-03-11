@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\PR7\PR7\bin\Debug\PR7.exe.config
+C:\Users\ivang\source\repos\PR7\PR7\bin\Debug\PR7.exe
+C:\Users\ivang\source\repos\PR7\PR7\bin\Debug\PR7.pdb
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.csproj.AssemblyReference.cache
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.MainForm.resources
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.Properties.Resources.resources
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.csproj.GenerateResource.cache
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.exe
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.pdb
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.exe.config
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.FormOrder.resources
+C:\Users\ivang\source\repos\PR7\PR7\obj\Debug\PR7.FormReceipt.resources

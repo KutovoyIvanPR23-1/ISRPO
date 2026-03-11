@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|c:\\users\\ivang\\onedrive\\desktop\\\u0438\u0441\u0440\u043F\u043E\\pr7\\pr7\\pr7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|solutionrelative:pr7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\pr7\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|solutionrelative:pr7\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\pr7\\formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A762AD50-D379-454A-9AD2-37A49F87975E}|PR7\\PR7.csproj|solutionrelative:pr7\\formreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\Form1.cs",
+              "RelativeDocumentMoniker": "PR7\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PR7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:38:36.839Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\FormOrder.cs",
+              "RelativeDocumentMoniker": "PR7\\FormOrder.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\FormOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PR7\\FormOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:13:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\FormReceipt.cs",
+              "RelativeDocumentMoniker": "PR7\\FormReceipt.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\PR7\\PR7\\PR7\\FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "PR7\\FormReceipt.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:43:54.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

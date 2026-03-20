@@ -1,0 +1,11 @@
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\BackpackApp.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\BackpackApp.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\BackpackApp.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\ivang\OneDrive\Desktop\ИСРПО\Lab8\BackpackApp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormBackpack.resources

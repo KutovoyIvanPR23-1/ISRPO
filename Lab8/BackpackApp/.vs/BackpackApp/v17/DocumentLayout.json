@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|c:\\users\\ivang\\onedrive\\desktop\\\u0438\u0441\u0440\u043F\u043E\\lab8\\backpackapp\\windowsformsapp1\\formbackpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\formbackpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|c:\\users\\ivang\\onedrive\\desktop\\\u0438\u0441\u0440\u043F\u043E\\lab8\\backpackapp\\windowsformsapp1\\formbackpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\formbackpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\knapsacksolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\knapsacksolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\debugging\\executiontimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\debugging\\executiontimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\debugging\\debuglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\debugging\\debuglogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\database\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\database\\databasetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\windowsformsapp1\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A91C10-8854-4F31-8007-12D0D792A873}|WindowsFormsApp1\\BackpackApp.csproj|solutionrelative:windowsformsapp1\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBackpack.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\FormBackpack.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FormBackpack.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\FormBackpack.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\FormBackpack.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:00:43.261Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KnapsackSolver.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\KnapsackSolver.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\KnapsackSolver.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\KnapsackSolver.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\KnapsackSolver.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:25:49.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:23:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseTester.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Database\\DatabaseTester.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Database\\DatabaseTester.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Database\\DatabaseTester.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Database\\DatabaseTester.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:22:25.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExecutionTimer.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Debugging\\ExecutionTimer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Debugging\\ExecutionTimer.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Debugging\\ExecutionTimer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Debugging\\ExecutionTimer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:19:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DebugLogger.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Debugging\\DebugLogger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Debugging\\DebugLogger.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Debugging\\DebugLogger.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Debugging\\DebugLogger.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:17:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\Models\\Item.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:16:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBackpack.cs",
+              "DocumentMoniker": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\FormBackpack.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FormBackpack.cs",
+              "ToolTip": "C:\\Users\\ivang\\OneDrive\\Desktop\\\u0418\u0421\u0420\u041F\u041E\\Lab8\\BackpackApp\\WindowsFormsApp1\\FormBackpack.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FormBackpack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:33:05.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
